@@ -1,0 +1,1 @@
+The AuthService is a microservice responsible for user authentication and authorization within the BazaarTrade platform. It provides essential functionalities such as user login, token issuance, and permission validation, serving as a critical component in the system's security infrastructure.
